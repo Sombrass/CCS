@@ -1,4 +1,10 @@
-hash: 3441bf6ff6d443d7e65fcdfc4f1d1b67e506cee012ed3b4901bbe2aab9890aa9
-updated: 2017-09-05T17:48:23.025267237+08:00
-imports: []
+hash: 2bde7b8b00df9f7c054b2c8956ca446ad72ef848da07095f76efd93a7a76ee34
+updated: 2017-09-06T14:24:57.106609043+08:00
+imports:
+- name: github.com/BurntSushi/toml
+  version: b26d9c308763d68093482582cea63d69be07a0f0
+- name: github.com/stretchr/testify
+  version: 69483b4bd14f5845b5a1e55bca19e954e827f1d0
+  subpackages:
+  - assert
 testImports: []
